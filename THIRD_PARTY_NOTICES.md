@@ -5,7 +5,7 @@ Each LGPL component is shipped as its own shared library (`.so`) and is linked
 dynamically, so it can be replaced with a compatible build.
 
 If you need the corresponding source code or build instructions and cannot get
-them from the links below, open an [issue](https://github.com/volchebnoeremeslo-web/shikardos-audio/issues)
+them from the links below, open an [issue](https://github.com/SHIKARDOS/shikardos-audio/issues)
 and we will provide them.
 
 ---
